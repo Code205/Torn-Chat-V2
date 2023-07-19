@@ -1,2 +1,3 @@
 # Torn Chat v2
-Displays, Plays media in Chat for Torn.com
+
+Torn Chat v2 is a script that enhances the chat functionality on the Torn website. It hides image links, embeds YouTube videos, and expands image previews. Enjoy a cleaner and more interactive chat experience 
