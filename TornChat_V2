@@ -2,8 +2,8 @@
 // @name         TornChat v2
 // @author       ETC[2617154]
 // @match        https://www.torn.com/*
-// @downloadURL  https://github.com/Code205/TornChat-Youtube/raw/main/TornChat2.0.js
-// @updateURL    https://github.com/Code205/TornChat-Youtube/raw/main/TornChat2.0.js
+// @downloadURL  https://github.com/Code205/Torn-Chat-V2/blob/main/TornChat_V2.js
+// @updateURL    https://github.com/Code205/Torn-Chat-V2/blob/main/TornChat_V2.js
 // @version      0.8
 // @description  Enhances the chat functionality on the Torn website by adding features such as hiding image links, embedding YouTube videos, and expanding image previews.
 // @icon         https://i.ibb.co/MCTCRmc/2f9f4ccf109705ec910f06f61c29974a.jpg
